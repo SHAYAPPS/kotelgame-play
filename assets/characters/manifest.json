@@ -1,0 +1,5956 @@
+{
+ "characters": {
+  "squad_swat": {
+   "file": "squad_swat.glb",
+   "source": "Swat",
+   "credit": "recolored olive, \"SWAT\" lettering removed",
+   "role": "squad",
+   "sex": "m",
+   "height": 1.795,
+   "hips": 0.9637,
+   "head": {
+    "min": [
+     -0.1154,
+     -0.0175,
+     -0.132
+    ],
+    "max": [
+     0.1154,
+     0.2017,
+     0.1383
+    ],
+    "chinY": 0.0007,
+    "topY": 0.2017,
+    "eyeY": 0.1012,
+    "front": 0.1383,
+    "ring": {
+     "y": 0.1313,
+     "cz": 0.0097,
+     "rx": 0.1012,
+     "rz": 0.1286
+    }
+   },
+   "chest": {
+    "min": [
+     -0.189,
+     -0.1775,
+     -0.183
+    ],
+    "max": [
+     0.189,
+     0.2314,
+     0.1759
+    ]
+   },
+   "parts": [
+    0
+   ],
+   "partLum": [
+    0.1422,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    10658,
+    3131,
+    1176
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": {
+    "lipY": 0.002,
+    "mouthHalfWidth": 0.03,
+    "eyes": [
+     {
+      "x": 0.0318,
+      "y": 0.0709,
+      "w": 0.0287,
+      "h": 0.01
+     },
+     {
+      "x": -0.032,
+      "y": 0.071,
+      "w": 0.029,
+      "h": 0.0083
+     }
+    ]
+   },
+   "cloth": null
+  },
+  "squad_swatguy": {
+   "file": "squad_swatguy.glb",
+   "source": "Swat Guy",
+   "credit": "recolored olive",
+   "role": "squad",
+   "sex": "m",
+   "height": 1.795,
+   "hips": 0.9535,
+   "head": {
+    "min": [
+     -0.1124,
+     -0.0426,
+     -0.0869
+    ],
+    "max": [
+     0.1124,
+     0.232,
+     0.1746
+    ],
+    "chinY": -0.024,
+    "topY": 0.232,
+    "eyeY": 0.104,
+    "front": 0.1746,
+    "ring": {
+     "y": 0.1424,
+     "cz": 0.0489,
+     "rx": 0.1083,
+     "rz": 0.1224
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1985,
+     -0.1898,
+     -0.1557
+    ],
+    "max": [
+     0.1985,
+     0.1928,
+     0.2012
+    ]
+   },
+   "parts": [
+    0
+   ],
+   "partLum": [
+    0.0336,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    15299,
+    5176,
+    2415
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": null,
+   "cloth": null
+  },
+  "squad_steve": {
+   "file": "squad_steve.glb",
+   "source": "Steve",
+   "credit": "toned to olive; a vest is added in game",
+   "role": "squad",
+   "sex": "m",
+   "height": 1.78,
+   "hips": 0.9714,
+   "head": {
+    "min": [
+     -0.1099,
+     -0.028,
+     -0.0905
+    ],
+    "max": [
+     0.1099,
+     0.2415,
+     0.1589
+    ],
+    "chinY": -0.0197,
+    "topY": 0.2415,
+    "eyeY": 0.1109,
+    "front": 0.1589,
+    "ring": {
+     "y": 0.1501,
+     "cz": 0.0341,
+     "rx": 0.0937,
+     "rz": 0.1078
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1752,
+     -0.1801,
+     -0.1153
+    ],
+    "max": [
+     0.1798,
+     0.2148,
+     0.1478
+    ]
+   },
+   "parts": [
+    0
+   ],
+   "partLum": [
+    0.0895,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    19572,
+    2059,
+    598
+   ],
+   "alpha": false,
+   "vest": true,
+   "face": {
+    "lipY": 0.039,
+    "mouthHalfWidth": 0.029,
+    "eyes": [
+     {
+      "x": 0.0326,
+      "y": 0.1069,
+      "w": 0.0233,
+      "h": 0.009
+     },
+     {
+      "x": -0.0337,
+      "y": 0.1078,
+      "w": 0.0256,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": null
+  },
+  "enemy_ninja": {
+   "file": "enemy_ninja.glb",
+   "source": "Ninja",
+   "credit": "darkened",
+   "role": "enemy",
+   "sex": "m",
+   "height": 1.742,
+   "hips": 0.9341,
+   "head": {
+    "min": [
+     -0.0883,
+     -0.0285,
+     -0.0828
+    ],
+    "max": [
+     0.0883,
+     0.1976,
+     0.1444
+    ],
+    "chinY": -0.0203,
+    "topY": 0.1976,
+    "eyeY": 0.0886,
+    "front": 0.1444,
+    "ring": {
+     "y": 0.1213,
+     "cz": 0.0183,
+     "rx": 0.0822,
+     "rz": 0.101
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1682,
+     -0.1848,
+     -0.1541
+    ],
+    "max": [
+     0.1596,
+     0.2341,
+     0.1778
+    ]
+   },
+   "parts": [
+    0
+   ],
+   "partLum": [
+    0.0511,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    3304,
+    850,
+    236
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": null,
+   "cloth": null
+  },
+  "enemy_david": {
+   "file": "enemy_david.glb",
+   "source": "David",
+   "credit": "darkened; hair removed, balaclava painted on",
+   "role": "enemy",
+   "sex": "m",
+   "height": 1.758,
+   "hips": 0.9606,
+   "head": {
+    "min": [
+     -0.0883,
+     -0.0491,
+     -0.1087
+    ],
+    "max": [
+     0.0883,
+     0.2172,
+     0.1519
+    ],
+    "chinY": -0.012,
+    "topY": 0.2172,
+    "eyeY": 0.1026,
+    "front": 0.1519,
+    "ring": {
+     "y": 0.137,
+     "cz": 0.0317,
+     "rx": 0.0793,
+     "rz": 0.1015
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1834,
+     -0.1406,
+     -0.1134
+    ],
+    "max": [
+     0.182,
+     0.2219,
+     0.1479
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    8,
+    9
+   ],
+   "partLum": [
+    0.0501,
+    0.0055,
+    0.0062,
+    0.0746,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.0976,
+    0.0698
+   ],
+   "tris": [
+    4303,
+    1092,
+    351
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": null,
+   "cloth": null
+  },
+  "enemy_alex": {
+   "file": "enemy_alex.glb",
+   "source": "Alex",
+   "credit": "darkened; face wrap painted on",
+   "role": "enemy",
+   "sex": "m",
+   "height": 1.751,
+   "hips": 0.9377,
+   "head": {
+    "min": [
+     -0.0886,
+     -0.0424,
+     -0.0843
+    ],
+    "max": [
+     0.0864,
+     0.2295,
+     0.1846
+    ],
+    "chinY": -0.0231,
+    "topY": 0.2295,
+    "eyeY": 0.1032,
+    "front": 0.1846,
+    "ring": {
+     "y": 0.1411,
+     "cz": 0.0556,
+     "rx": 0.0789,
+     "rz": 0.129
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1863,
+     -0.1743,
+     -0.1051
+    ],
+    "max": [
+     0.1925,
+     0.2081,
+     0.1644
+    ]
+   },
+   "parts": [
+    0
+   ],
+   "partLum": [
+    0.0209,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    5625,
+    1473,
+    430
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": null,
+   "cloth": null
+  },
+  "civ_brian": {
+   "file": "civ_brian.glb",
+   "source": "Brian",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.75,
+   "hips": 0.9916,
+   "head": {
+    "min": [
+     -0.0886,
+     -0.0404,
+     -0.0795
+    ],
+    "max": [
+     0.0886,
+     0.192,
+     0.1498
+    ],
+    "chinY": -0.0167,
+    "topY": 0.192,
+    "eyeY": 0.0877,
+    "front": 0.1498,
+    "ring": {
+     "y": 0.119,
+     "cz": 0.0241,
+     "rx": 0.0799,
+     "rz": 0.1016
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1924,
+     -0.1481,
+     -0.1266
+    ],
+    "max": [
+     0.1924,
+     0.2023,
+     0.1552
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    8
+   ],
+   "partLum": [
+    0.2734,
+    0.4957,
+    0.0748,
+    0.2187,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.2363,
+    0.3
+   ],
+   "tris": [
+    13001,
+    1441,
+    435
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": {
+    "lipY": 0.0157,
+    "mouthHalfWidth": 0.0248,
+    "eyes": [
+     {
+      "x": 0.031,
+      "y": 0.0809,
+      "w": 0.0255,
+      "h": 0.009
+     },
+     {
+      "x": -0.031,
+      "y": 0.0812,
+      "w": 0.0255,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0145
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       -0.0042,
+       -0.15,
+       -0.0042
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0088,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0017,
+       -0.15,
+       -0.0017
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0181
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0109,
+       -0.15,
+       -0.0109
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0024,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.0034,
+       -0.15,
+       0.0034
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.107,
+      "r2": 0.086,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.086,
+      "r2": 0.086,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.107,
+      "r2": 0.084,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.084,
+      "r2": 0.078,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_joe": {
+   "file": "civ_joe.glb",
+   "source": "Joe",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.778,
+   "hips": 0.9957,
+   "head": {
+    "min": [
+     -0.0893,
+     -0.0333,
+     -0.0747
+    ],
+    "max": [
+     0.0909,
+     0.2099,
+     0.1627
+    ],
+    "chinY": -0.0024,
+    "topY": 0.2099,
+    "eyeY": 0.1037,
+    "front": 0.1627,
+    "ring": {
+     "y": 0.1356,
+     "cz": 0.0322,
+     "rx": 0.0771,
+     "rz": 0.1056
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1556,
+     -0.1669,
+     -0.1029
+    ],
+    "max": [
+     0.1608,
+     0.2074,
+     0.1454
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "partLum": [
+    0.1548,
+    0.0127,
+    0.035,
+    0.0094,
+    0.0193,
+    0.0179,
+    0.3899,
+    0.3,
+    0.1396,
+    0.3
+   ],
+   "tris": [
+    19237,
+    2264,
+    434
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.028,
+    "mouthHalfWidth": 0.0239,
+    "eyes": [
+     {
+      "x": 0.0319,
+      "y": 0.1043,
+      "w": 0.027,
+      "h": 0.009
+     },
+     {
+      "x": -0.0303,
+      "y": 0.1042,
+      "w": 0.027,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.0091
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0047,
+       -0.15,
+       0.0047
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0169,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.017,
+       -0.15,
+       -0.017
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0188
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0146,
+       -0.15,
+       -0.0146
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0154,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.01,
+       -0.15,
+       0.01
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.098,
+      "r2": 0.074,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.073,
+      "r2": 0.069,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.103,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.075,
+      "r2": 0.073,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_josh": {
+   "file": "civ_josh.glb",
+   "source": "Josh",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.782,
+   "hips": 1.009,
+   "head": {
+    "min": [
+     -0.0938,
+     -0.0409,
+     -0.0606
+    ],
+    "max": [
+     0.0899,
+     0.2083,
+     0.1573
+    ],
+    "chinY": -0.0062,
+    "topY": 0.2083,
+    "eyeY": 0.101,
+    "front": 0.1573,
+    "ring": {
+     "y": 0.1332,
+     "cz": 0.038,
+     "rx": 0.0812,
+     "rz": 0.0978
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1723,
+     -0.1687,
+     -0.1018
+    ],
+    "max": [
+     0.1765,
+     0.197,
+     0.1452
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "partLum": [
+    0.177,
+    0.018,
+    0.084,
+    0.0313,
+    0.0045,
+    0.0067,
+    0.1164,
+    0.3,
+    0.163,
+    0.3
+   ],
+   "tris": [
+    18401,
+    2276,
+    459
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.024,
+    "mouthHalfWidth": 0.0252,
+    "eyes": [
+     {
+      "x": 0.0297,
+      "y": 0.098,
+      "w": 0.0252,
+      "h": 0.009
+     },
+     {
+      "x": -0.0333,
+      "y": 0.0981,
+      "w": 0.0252,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.0091
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0047,
+       -0.15,
+       0.0047
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0169,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.017,
+       -0.15,
+       -0.017
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0188
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0146,
+       -0.15,
+       -0.0146
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0154,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.0099,
+       -0.15,
+       0.0099
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.103,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.075,
+      "r2": 0.072,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.111,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.076,
+      "r2": 0.075,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_lewis": {
+   "file": "civ_lewis.glb",
+   "source": "Lewis",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.757,
+   "hips": 0.9765,
+   "head": {
+    "min": [
+     -0.0881,
+     -0.0349,
+     -0.0656
+    ],
+    "max": [
+     0.0864,
+     0.204,
+     0.142
+    ],
+    "chinY": -0.0009,
+    "topY": 0.204,
+    "eyeY": 0.1015,
+    "front": 0.142,
+    "ring": {
+     "y": 0.1323,
+     "cz": 0.0282,
+     "rx": 0.0762,
+     "rz": 0.093
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1547,
+     -0.152,
+     -0.088
+    ],
+    "max": [
+     0.1555,
+     0.1974,
+     0.1186
+    ]
+   },
+   "parts": [
+    0,
+    4
+   ],
+   "partLum": [
+    0.0965,
+    0.3,
+    0.3,
+    0.3,
+    0.003,
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.3
+   ],
+   "tris": [
+    19794,
+    1343,
+    317
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.038,
+    "mouthHalfWidth": 0.0236,
+    "eyes": [
+     {
+      "x": 0.0319,
+      "y": 0.0989,
+      "w": 0.0252,
+      "h": 0.009
+     },
+     {
+      "x": -0.0339,
+      "y": 0.0991,
+      "w": 0.027,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": null
+  },
+  "civ_remy": {
+   "file": "civ_remy.glb",
+   "source": "Remy",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.78,
+   "hips": 1.0011,
+   "head": {
+    "min": [
+     -0.0991,
+     -0.0304,
+     -0.112
+    ],
+    "max": [
+     0.0963,
+     0.194,
+     0.1155
+    ],
+    "chinY": 0.0109,
+    "topY": 0.194,
+    "eyeY": 0.1024,
+    "front": 0.1155,
+    "ring": {
+     "y": 0.1299,
+     "cz": -0.0142,
+     "rx": 0.0835,
+     "rz": 0.0945
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1929,
+     -0.2374,
+     -0.1162
+    ],
+    "max": [
+     0.2049,
+     0.1848,
+     0.1629
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    8,
+    9
+   ],
+   "partLum": [
+    0.3265,
+    0.055,
+    0.1402,
+    0.6048,
+    0.1712,
+    0.3,
+    0.3,
+    0.3,
+    0.5052,
+    0.4061
+   ],
+   "tris": [
+    15282,
+    2036,
+    382
+   ],
+   "alpha": false,
+   "vest": false,
+   "face": {
+    "lipY": 0.0414,
+    "mouthHalfWidth": 0.0259,
+    "eyes": [
+     {
+      "x": 0.0277,
+      "y": 0.1035,
+      "w": 0.0211,
+      "h": 0.0089
+     },
+     {
+      "x": -0.0354,
+      "y": 0.098,
+      "w": 0.0198,
+      "h": 0.0075
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.0183
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0093,
+       -0.15,
+       0.0093
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0179,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.001,
+       -0.15,
+       -0.001
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0128
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0048,
+       -0.15,
+       -0.0048
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0188,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.019,
+       -0.15,
+       0.019
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.117,
+      "r2": 0.109,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.103,
+      "r2": 0.053,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.121,
+      "r2": 0.114,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.097,
+      "r2": 0.055,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_bryce": {
+   "file": "civ_bryce.glb",
+   "source": "Bryce",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "m",
+   "height": 1.791,
+   "hips": 0.9637,
+   "head": {
+    "min": [
+     -0.0952,
+     -0.0209,
+     -0.0652
+    ],
+    "max": [
+     0.0953,
+     0.2269,
+     0.161
+    ],
+    "chinY": 0.0005,
+    "topY": 0.2269,
+    "eyeY": 0.1137,
+    "front": 0.161,
+    "ring": {
+     "y": 0.1477,
+     "cz": 0.0352,
+     "rx": 0.0806,
+     "rz": 0.0995
+    }
+   },
+   "chest": {
+    "min": [
+     -0.165,
+     -0.1572,
+     -0.099
+    ],
+    "max": [
+     0.1657,
+     0.1986,
+     0.1295
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    8,
+    9
+   ],
+   "partLum": [
+    0.1853,
+    0.1087,
+    0.2568,
+    0.3848,
+    0.0137,
+    0.3,
+    0.3,
+    0.3,
+    0.156,
+    0.1878
+   ],
+   "tris": [
+    19098,
+    2289,
+    450
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.033,
+    "mouthHalfWidth": 0.025,
+    "eyes": [
+     {
+      "x": 0.0317,
+      "y": 0.1153,
+      "w": 0.0262,
+      "h": 0.009
+     },
+     {
+      "x": -0.0317,
+      "y": 0.1153,
+      "w": 0.0262,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.0044
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0114,
+       -0.15,
+       0.0114
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0156,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0138,
+       -0.15,
+       -0.0138
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0065
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0163,
+       -0.15,
+       -0.0163
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0157,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.0099,
+       -0.15,
+       0.0099
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.105,
+      "r2": 0.09,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.082,
+      "r2": 0.061,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.102,
+      "r2": 0.087,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.081,
+      "r2": 0.06,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_martha": {
+   "file": "civ_martha.glb",
+   "source": "Martha",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "f",
+   "height": 1.752,
+   "hips": 0.9776,
+   "head": {
+    "min": [
+     -0.0826,
+     -0.028,
+     -0.0614
+    ],
+    "max": [
+     0.083,
+     0.2104,
+     0.1548
+    ],
+    "chinY": -0.0025,
+    "topY": 0.2104,
+    "eyeY": 0.104,
+    "front": 0.1548,
+    "ring": {
+     "y": 0.1359,
+     "cz": 0.0354,
+     "rx": 0.0761,
+     "rz": 0.0963
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1495,
+     -0.1984,
+     -0.0641
+    ],
+    "max": [
+     0.1467,
+     0.1815,
+     0.168
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8
+   ],
+   "partLum": [
+    0.1268,
+    0.0518,
+    0.2455,
+    0.3246,
+    0.0062,
+    0.3,
+    0.5071,
+    0.3052,
+    0.1487,
+    0.3
+   ],
+   "tris": [
+    18182,
+    2445,
+    487
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.0257,
+    "mouthHalfWidth": 0.0236,
+    "eyes": [
+     {
+      "x": 0.0313,
+      "y": 0.0978,
+      "w": 0.0244,
+      "h": 0.009
+     },
+     {
+      "x": -0.0332,
+      "y": 0.0975,
+      "w": 0.0258,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt0a",
+       "ClothSkirt0b"
+      ],
+      "tip": [
+       0,
+       -0.3099,
+       0.0909
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt1a",
+       "ClothSkirt1b"
+      ],
+      "tip": [
+       0.029,
+       -0.3099,
+       0.0798
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt2a",
+       "ClothSkirt2b"
+      ],
+      "tip": [
+       0.039,
+       -0.3099,
+       0.0675
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt3a",
+       "ClothSkirt3b"
+      ],
+      "tip": [
+       0.0498,
+       -0.3099,
+       0.0418
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt4a",
+       "ClothSkirt4b"
+      ],
+      "tip": [
+       0.0543,
+       -0.3099,
+       0.0313
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt5a",
+       "ClothSkirt5b"
+      ],
+      "tip": [
+       0.061,
+       -0.3099,
+       0.0108
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt6a",
+       "ClothSkirt6b"
+      ],
+      "tip": [
+       0.062,
+       -0.3099,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt7a",
+       "ClothSkirt7b"
+      ],
+      "tip": [
+       0.0582,
+       -0.3099,
+       -0.0212
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt8a",
+       "ClothSkirt8b"
+      ],
+      "tip": [
+       0.0539,
+       -0.3099,
+       -0.0311
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt9a",
+       "ClothSkirt9b"
+      ],
+      "tip": [
+       0.0441,
+       -0.3099,
+       -0.0525
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt10a",
+       "ClothSkirt10b"
+      ],
+      "tip": [
+       0.039,
+       -0.3099,
+       -0.0676
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt11a",
+       "ClothSkirt11b"
+      ],
+      "tip": [
+       0.017,
+       -0.3099,
+       -0.0965
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt12a",
+       "ClothSkirt12b"
+      ],
+      "tip": [
+       0,
+       -0.3099,
+       -0.0986
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt13a",
+       "ClothSkirt13b"
+      ],
+      "tip": [
+       -0.0274,
+       -0.3099,
+       -0.0752
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt14a",
+       "ClothSkirt14b"
+      ],
+      "tip": [
+       -0.0352,
+       -0.3099,
+       -0.0609
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt15a",
+       "ClothSkirt15b"
+      ],
+      "tip": [
+       -0.0479,
+       -0.3099,
+       -0.0402
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt16a",
+       "ClothSkirt16b"
+      ],
+      "tip": [
+       -0.0537,
+       -0.3099,
+       -0.031
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt17a",
+       "ClothSkirt17b"
+      ],
+      "tip": [
+       -0.061,
+       -0.3099,
+       -0.0108
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt18a",
+       "ClothSkirt18b"
+      ],
+      "tip": [
+       -0.062,
+       -0.3099,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt19a",
+       "ClothSkirt19b"
+      ],
+      "tip": [
+       -0.0584,
+       -0.3099,
+       0.0213
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt20a",
+       "ClothSkirt20b"
+      ],
+      "tip": [
+       -0.0549,
+       -0.3099,
+       0.0317
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt21a",
+       "ClothSkirt21b"
+      ],
+      "tip": [
+       -0.0473,
+       -0.3099,
+       0.0563
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt22a",
+       "ClothSkirt22b"
+      ],
+      "tip": [
+       -0.0405,
+       -0.3099,
+       0.0702
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt23a",
+       "ClothSkirt23b"
+      ],
+      "tip": [
+       -0.0157,
+       -0.3099,
+       0.0888
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.0041
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0093,
+       -0.15,
+       0.0093
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0371,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0373,
+       -0.15,
+       -0.0373
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0214
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0344,
+       -0.15,
+       -0.0344
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0269,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.0039,
+       -0.15,
+       0.0039
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.097,
+      "r2": 0.078,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.066,
+      "r2": 0.056,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.099,
+      "r2": 0.078,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.065,
+      "r2": 0.057,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_kate": {
+   "file": "civ_kate.glb",
+   "source": "Kate",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "f",
+   "height": 1.751,
+   "hips": 0.9523,
+   "head": {
+    "min": [
+     -0.0871,
+     -0.0276,
+     -0.0651
+    ],
+    "max": [
+     0.0867,
+     0.1964,
+     0.1459
+    ],
+    "chinY": -0.0031,
+    "topY": 0.1964,
+    "eyeY": 0.0967,
+    "front": 0.1459,
+    "ring": {
+     "y": 0.1266,
+     "cz": 0.0298,
+     "rx": 0.0745,
+     "rz": 0.0945
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1415,
+     -0.1527,
+     -0.0785
+    ],
+    "max": [
+     0.1463,
+     0.2922,
+     0.1741
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    9
+   ],
+   "partLum": [
+    0.2071,
+    0.0441,
+    0.1327,
+    0.0724,
+    0.0608,
+    0.3,
+    0.3,
+    0.3052,
+    0.2719,
+    0.1078
+   ],
+   "tris": [
+    20142,
+    2749,
+    672
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.029,
+    "mouthHalfWidth": 0.0231,
+    "eyes": [
+     {
+      "x": 0.0281,
+      "y": 0.0914,
+      "w": 0.0245,
+      "h": 0.009
+     },
+     {
+      "x": -0.03,
+      "y": 0.0912,
+      "w": 0.0243,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt0a",
+       "ClothSkirt0b"
+      ],
+      "tip": [
+       0,
+       -0.3187,
+       0.0793
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt1a",
+       "ClothSkirt1b"
+      ],
+      "tip": [
+       0.0242,
+       -0.3187,
+       0.0665
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt2a",
+       "ClothSkirt2b"
+      ],
+      "tip": [
+       0.0333,
+       -0.3187,
+       0.0577
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt3a",
+       "ClothSkirt3b"
+      ],
+      "tip": [
+       0.0489,
+       -0.3187,
+       0.041
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt4a",
+       "ClothSkirt4b"
+      ],
+      "tip": [
+       0.0552,
+       -0.3187,
+       0.0319
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt5a",
+       "ClothSkirt5b"
+      ],
+      "tip": [
+       0.0628,
+       -0.3187,
+       0.0111
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt6a",
+       "ClothSkirt6b"
+      ],
+      "tip": [
+       0.0637,
+       -0.3187,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt7a",
+       "ClothSkirt7b"
+      ],
+      "tip": [
+       0.0599,
+       -0.3187,
+       -0.0218
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt8a",
+       "ClothSkirt8b"
+      ],
+      "tip": [
+       0.0552,
+       -0.3187,
+       -0.0319
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt9a",
+       "ClothSkirt9b"
+      ],
+      "tip": [
+       0.0417,
+       -0.3187,
+       -0.0497
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt10a",
+       "ClothSkirt10b"
+      ],
+      "tip": [
+       0.0341,
+       -0.3187,
+       -0.059
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt11a",
+       "ClothSkirt11b"
+      ],
+      "tip": [
+       0.0135,
+       -0.3187,
+       -0.0765
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt12a",
+       "ClothSkirt12b"
+      ],
+      "tip": [
+       0,
+       -0.3187,
+       -0.0775
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt13a",
+       "ClothSkirt13b"
+      ],
+      "tip": [
+       -0.0233,
+       -0.3187,
+       -0.0641
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt14a",
+       "ClothSkirt14b"
+      ],
+      "tip": [
+       -0.0325,
+       -0.3187,
+       -0.0563
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt15a",
+       "ClothSkirt15b"
+      ],
+      "tip": [
+       -0.0488,
+       -0.3187,
+       -0.041
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt16a",
+       "ClothSkirt16b"
+      ],
+      "tip": [
+       -0.0552,
+       -0.3187,
+       -0.0319
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt17a",
+       "ClothSkirt17b"
+      ],
+      "tip": [
+       -0.0628,
+       -0.3187,
+       -0.0111
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt18a",
+       "ClothSkirt18b"
+      ],
+      "tip": [
+       -0.0637,
+       -0.3187,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt19a",
+       "ClothSkirt19b"
+      ],
+      "tip": [
+       -0.0599,
+       -0.3187,
+       0.0218
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt20a",
+       "ClothSkirt20b"
+      ],
+      "tip": [
+       -0.0552,
+       -0.3187,
+       0.0319
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt21a",
+       "ClothSkirt21b"
+      ],
+      "tip": [
+       -0.0422,
+       -0.3187,
+       0.0503
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt22a",
+       "ClothSkirt22b"
+      ],
+      "tip": [
+       -0.0347,
+       -0.3187,
+       0.0601
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt23a",
+       "ClothSkirt23b"
+      ],
+      "tip": [
+       -0.0137,
+       -0.3187,
+       0.0777
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0361
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0043,
+       -0.15,
+       0.0043
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0215,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0412,
+       -0.15,
+       -0.0412
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0536
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0427,
+       -0.15,
+       -0.0427
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0254,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.0002,
+       -0.15,
+       0.0002
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.098,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.072,
+      "r2": 0.061,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.107,
+      "r2": 0.074,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.072,
+      "r2": 0.064,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_elizabeth": {
+   "file": "civ_elizabeth.glb",
+   "source": "Elizabeth",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "f",
+   "height": 1.779,
+   "hips": 0.9997,
+   "head": {
+    "min": [
+     -0.0857,
+     -0.0333,
+     -0.0588
+    ],
+    "max": [
+     0.084,
+     0.2086,
+     0.153
+    ],
+    "chinY": -0.0088,
+    "topY": 0.2086,
+    "eyeY": 0.0999,
+    "front": 0.153,
+    "ring": {
+     "y": 0.1325,
+     "cz": 0.0343,
+     "rx": 0.0768,
+     "rz": 0.0931
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1384,
+     -0.1618,
+     -0.071
+    ],
+    "max": [
+     0.1341,
+     0.18,
+     0.1814
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    9
+   ],
+   "partLum": [
+    0.1231,
+    0.5458,
+    0.084,
+    0.1278,
+    0.0027,
+    0.3,
+    0.3,
+    0.3052,
+    0.1261,
+    0.1323
+   ],
+   "tris": [
+    22502,
+    6000,
+    988
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.0271,
+    "mouthHalfWidth": 0.0238,
+    "eyes": [
+     {
+      "x": 0.0336,
+      "y": 0.0968,
+      "w": 0.0256,
+      "h": 0.009
+     },
+     {
+      "x": -0.036,
+      "y": 0.0965,
+      "w": 0.0256,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt0a",
+       "ClothSkirt0b"
+      ],
+      "tip": [
+       0,
+       -0.3076,
+       0.0923
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt1a",
+       "ClothSkirt1b"
+      ],
+      "tip": [
+       0.0289,
+       -0.3076,
+       0.0794
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt2a",
+       "ClothSkirt2b"
+      ],
+      "tip": [
+       0.0385,
+       -0.3076,
+       0.0667
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt3a",
+       "ClothSkirt3b"
+      ],
+      "tip": [
+       0.0494,
+       -0.3076,
+       0.0415
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt4a",
+       "ClothSkirt4b"
+      ],
+      "tip": [
+       0.0539,
+       -0.3076,
+       0.0311
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt5a",
+       "ClothSkirt5b"
+      ],
+      "tip": [
+       0.0606,
+       -0.3076,
+       0.0107
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt6a",
+       "ClothSkirt6b"
+      ],
+      "tip": [
+       0.0615,
+       -0.3076,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt7a",
+       "ClothSkirt7b"
+      ],
+      "tip": [
+       0.0579,
+       -0.3076,
+       -0.0211
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt8a",
+       "ClothSkirt8b"
+      ],
+      "tip": [
+       0.0538,
+       -0.3076,
+       -0.0311
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt9a",
+       "ClothSkirt9b"
+      ],
+      "tip": [
+       0.0455,
+       -0.3076,
+       -0.0542
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt10a",
+       "ClothSkirt10b"
+      ],
+      "tip": [
+       0.0407,
+       -0.3076,
+       -0.0704
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt11a",
+       "ClothSkirt11b"
+      ],
+      "tip": [
+       0.0176,
+       -0.3076,
+       -0.0997
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt12a",
+       "ClothSkirt12b"
+      ],
+      "tip": [
+       0,
+       -0.3076,
+       -0.1017
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt13a",
+       "ClothSkirt13b"
+      ],
+      "tip": [
+       -0.0284,
+       -0.3076,
+       -0.078
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt14a",
+       "ClothSkirt14b"
+      ],
+      "tip": [
+       -0.0362,
+       -0.3076,
+       -0.0626
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt15a",
+       "ClothSkirt15b"
+      ],
+      "tip": [
+       -0.0478,
+       -0.3076,
+       -0.0401
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt16a",
+       "ClothSkirt16b"
+      ],
+      "tip": [
+       -0.0534,
+       -0.3076,
+       -0.0308
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt17a",
+       "ClothSkirt17b"
+      ],
+      "tip": [
+       -0.0606,
+       -0.3076,
+       -0.0107
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt18a",
+       "ClothSkirt18b"
+      ],
+      "tip": [
+       -0.0615,
+       -0.3076,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt19a",
+       "ClothSkirt19b"
+      ],
+      "tip": [
+       -0.0581,
+       -0.3076,
+       0.0212
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt20a",
+       "ClothSkirt20b"
+      ],
+      "tip": [
+       -0.055,
+       -0.3076,
+       0.0317
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt21a",
+       "ClothSkirt21b"
+      ],
+      "tip": [
+       -0.048,
+       -0.3076,
+       0.0572
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt22a",
+       "ClothSkirt22b"
+      ],
+      "tip": [
+       -0.0411,
+       -0.3076,
+       0.0712
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt23a",
+       "ClothSkirt23b"
+      ],
+      "tip": [
+       -0.0159,
+       -0.3076,
+       0.0902
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0271
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       -0.0021,
+       -0.15,
+       -0.0021
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0247,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0448,
+       -0.15,
+       -0.0448
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0461
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0474,
+       -0.15,
+       -0.0474
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.026,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       0.0023,
+       -0.15,
+       -0.0023
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.107,
+      "r2": 0.074,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.063,
+      "r2": 0.054,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.107,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.064,
+      "r2": 0.056,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_sophie": {
+   "file": "civ_sophie.glb",
+   "source": "Sophie",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "f",
+   "height": 1.763,
+   "hips": 0.9828,
+   "head": {
+    "min": [
+     -0.0864,
+     -0.0288,
+     -0.0518
+    ],
+    "max": [
+     0.0866,
+     0.2093,
+     0.1651
+    ],
+    "chinY": -0.0011,
+    "topY": 0.2093,
+    "eyeY": 0.1041,
+    "front": 0.1651,
+    "ring": {
+     "y": 0.1357,
+     "cz": 0.0449,
+     "rx": 0.0764,
+     "rz": 0.0967
+    }
+   },
+   "chest": {
+    "min": [
+     -0.1816,
+     -0.1584,
+     -0.1181
+    ],
+    "max": [
+     0.19,
+     0.1894,
+     0.1669
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    3,
+    4,
+    7,
+    8,
+    9
+   ],
+   "partLum": [
+    0.2158,
+    0.2989,
+    0.3,
+    0.5656,
+    0.237,
+    0.3,
+    0.3,
+    0.3052,
+    0.2179,
+    0.2625
+   ],
+   "tris": [
+    19205,
+    2254,
+    433
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.0355,
+    "mouthHalfWidth": 0.0237,
+    "eyes": [
+     {
+      "x": 0.0318,
+      "y": 0.1002,
+      "w": 0.0242,
+      "h": 0.009
+     },
+     {
+      "x": -0.0316,
+      "y": 0.1002,
+      "w": 0.0242,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt0a",
+       "ClothSkirt0b"
+      ],
+      "tip": [
+       0,
+       -0.3273,
+       0.0655
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt1a",
+       "ClothSkirt1b"
+      ],
+      "tip": [
+       0.0224,
+       -0.3273,
+       0.0615
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt2a",
+       "ClothSkirt2b"
+      ],
+      "tip": [
+       0.0327,
+       -0.3273,
+       0.0567
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt3a",
+       "ClothSkirt3b"
+      ],
+      "tip": [
+       0.0501,
+       -0.3273,
+       0.0421
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt4a",
+       "ClothSkirt4b"
+      ],
+      "tip": [
+       0.0567,
+       -0.3273,
+       0.0327
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt5a",
+       "ClothSkirt5b"
+      ],
+      "tip": [
+       0.0645,
+       -0.3273,
+       0.0114
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt6a",
+       "ClothSkirt6b"
+      ],
+      "tip": [
+       0.0655,
+       -0.3273,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt7a",
+       "ClothSkirt7b"
+      ],
+      "tip": [
+       0.0615,
+       -0.3273,
+       -0.0224
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt8a",
+       "ClothSkirt8b"
+      ],
+      "tip": [
+       0.0567,
+       -0.3273,
+       -0.0327
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt9a",
+       "ClothSkirt9b"
+      ],
+      "tip": [
+       0.0421,
+       -0.3273,
+       -0.0501
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt10a",
+       "ClothSkirt10b"
+      ],
+      "tip": [
+       0.0327,
+       -0.3273,
+       -0.0567
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt11a",
+       "ClothSkirt11b"
+      ],
+      "tip": [
+       0.0114,
+       -0.3273,
+       -0.0645
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt12a",
+       "ClothSkirt12b"
+      ],
+      "tip": [
+       0,
+       -0.3273,
+       -0.0655
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt13a",
+       "ClothSkirt13b"
+      ],
+      "tip": [
+       -0.0224,
+       -0.3273,
+       -0.0615
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt14a",
+       "ClothSkirt14b"
+      ],
+      "tip": [
+       -0.0327,
+       -0.3273,
+       -0.0567
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt15a",
+       "ClothSkirt15b"
+      ],
+      "tip": [
+       -0.0501,
+       -0.3273,
+       -0.0421
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt16a",
+       "ClothSkirt16b"
+      ],
+      "tip": [
+       -0.0567,
+       -0.3273,
+       -0.0327
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt17a",
+       "ClothSkirt17b"
+      ],
+      "tip": [
+       -0.0645,
+       -0.3273,
+       -0.0114
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt18a",
+       "ClothSkirt18b"
+      ],
+      "tip": [
+       -0.0655,
+       -0.3273,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt19a",
+       "ClothSkirt19b"
+      ],
+      "tip": [
+       -0.0615,
+       -0.3273,
+       0.0224
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt20a",
+       "ClothSkirt20b"
+      ],
+      "tip": [
+       -0.0567,
+       -0.3273,
+       0.0327
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt21a",
+       "ClothSkirt21b"
+      ],
+      "tip": [
+       -0.0421,
+       -0.3273,
+       0.0501
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt22a",
+       "ClothSkirt22b"
+      ],
+      "tip": [
+       -0.0327,
+       -0.3273,
+       0.0567
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt23a",
+       "ClothSkirt23b"
+      ],
+      "tip": [
+       -0.0114,
+       -0.3273,
+       0.0645
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem0"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       -0.0854
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem1"
+      ],
+      "tip": [
+       0.0099,
+       -0.15,
+       0.0099
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem2"
+      ],
+      "tip": [
+       0.0254,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem3"
+      ],
+      "tip": [
+       0.0046,
+       -0.15,
+       -0.0046
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem4"
+      ],
+      "tip": [
+       0,
+       -0.15,
+       0.005
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem5"
+      ],
+      "tip": [
+       -0.0103,
+       -0.15,
+       -0.0103
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem6"
+      ],
+      "tip": [
+       -0.0218,
+       -0.15,
+       0
+      ]
+     },
+     {
+      "kind": "hem",
+      "bones": [
+       "ClothHem7"
+      ],
+      "tip": [
+       -0.009,
+       -0.15,
+       0.009
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.094,
+      "r2": 0.075,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.074,
+      "r2": 0.054,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.094,
+      "r2": 0.074,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.074,
+      "r2": 0.055,
+      "from": 0
+     }
+    ]
+   }
+  },
+  "civ_megan": {
+   "file": "civ_megan.glb",
+   "source": "Megan",
+   "credit": "clothes recolored per person in game",
+   "role": "civilian",
+   "sex": "f",
+   "height": 1.746,
+   "hips": 1.0008,
+   "head": {
+    "min": [
+     -0.0903,
+     -0.0245,
+     -0.0452
+    ],
+    "max": [
+     0.0905,
+     0.2012,
+     0.1726
+    ],
+    "chinY": -0.0055,
+    "topY": 0.2012,
+    "eyeY": 0.0979,
+    "front": 0.1726,
+    "ring": {
+     "y": 0.1289,
+     "cz": 0.0514,
+     "rx": 0.0782,
+     "rz": 0.0966
+    }
+   },
+   "chest": {
+    "min": [
+     -0.134,
+     -0.1434,
+     -0.067
+    ],
+    "max": [
+     0.1348,
+     0.1791,
+     0.1673
+    ]
+   },
+   "parts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    7,
+    8
+   ],
+   "partLum": [
+    0.1878,
+    0.6081,
+    0.0296,
+    0.3843,
+    0.0586,
+    0.3,
+    0.3,
+    0.3052,
+    0.2595,
+    0.3
+   ],
+   "tris": [
+    20223,
+    2565,
+    631
+   ],
+   "alpha": true,
+   "vest": false,
+   "face": {
+    "lipY": 0.022,
+    "mouthHalfWidth": 0.0242,
+    "eyes": [
+     {
+      "x": 0.0325,
+      "y": 0.0881,
+      "w": 0.0248,
+      "h": 0.009
+     },
+     {
+      "x": -0.0325,
+      "y": 0.0882,
+      "w": 0.0248,
+      "h": 0.009
+     }
+    ]
+   },
+   "cloth": {
+    "chains": [
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt0a",
+       "ClothSkirt0b"
+      ],
+      "tip": [
+       0,
+       -0.3599,
+       0.072
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt1a",
+       "ClothSkirt1b"
+      ],
+      "tip": [
+       0.0246,
+       -0.3599,
+       0.0676
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt2a",
+       "ClothSkirt2b"
+      ],
+      "tip": [
+       0.036,
+       -0.3599,
+       0.0623
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt3a",
+       "ClothSkirt3b"
+      ],
+      "tip": [
+       0.0551,
+       -0.3599,
+       0.0463
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt4a",
+       "ClothSkirt4b"
+      ],
+      "tip": [
+       0.0623,
+       -0.3599,
+       0.036
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt5a",
+       "ClothSkirt5b"
+      ],
+      "tip": [
+       0.0709,
+       -0.3599,
+       0.0125
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt6a",
+       "ClothSkirt6b"
+      ],
+      "tip": [
+       0.072,
+       -0.3599,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt7a",
+       "ClothSkirt7b"
+      ],
+      "tip": [
+       0.0676,
+       -0.3599,
+       -0.0246
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt8a",
+       "ClothSkirt8b"
+      ],
+      "tip": [
+       0.0623,
+       -0.3599,
+       -0.036
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt9a",
+       "ClothSkirt9b"
+      ],
+      "tip": [
+       0.0471,
+       -0.3599,
+       -0.0561
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt10a",
+       "ClothSkirt10b"
+      ],
+      "tip": [
+       0.0384,
+       -0.3599,
+       -0.0665
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt11a",
+       "ClothSkirt11b"
+      ],
+      "tip": [
+       0.0155,
+       -0.3599,
+       -0.0879
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt12a",
+       "ClothSkirt12b"
+      ],
+      "tip": [
+       0,
+       -0.3599,
+       -0.0897
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt13a",
+       "ClothSkirt13b"
+      ],
+      "tip": [
+       -0.0265,
+       -0.3599,
+       -0.0728
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt14a",
+       "ClothSkirt14b"
+      ],
+      "tip": [
+       -0.0367,
+       -0.3599,
+       -0.0636
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt15a",
+       "ClothSkirt15b"
+      ],
+      "tip": [
+       -0.0551,
+       -0.3599,
+       -0.0463
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt16a",
+       "ClothSkirt16b"
+      ],
+      "tip": [
+       -0.0623,
+       -0.3599,
+       -0.036
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt17a",
+       "ClothSkirt17b"
+      ],
+      "tip": [
+       -0.0709,
+       -0.3599,
+       -0.0125
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt18a",
+       "ClothSkirt18b"
+      ],
+      "tip": [
+       -0.072,
+       -0.3599,
+       0
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt19a",
+       "ClothSkirt19b"
+      ],
+      "tip": [
+       -0.0676,
+       -0.3599,
+       0.0246
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt20a",
+       "ClothSkirt20b"
+      ],
+      "tip": [
+       -0.0623,
+       -0.3599,
+       0.036
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt21a",
+       "ClothSkirt21b"
+      ],
+      "tip": [
+       -0.0463,
+       -0.3599,
+       0.0551
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt22a",
+       "ClothSkirt22b"
+      ],
+      "tip": [
+       -0.036,
+       -0.3599,
+       0.0623
+      ]
+     },
+     {
+      "kind": "skirt",
+      "bones": [
+       "ClothSkirt23a",
+       "ClothSkirt23b"
+      ],
+      "tip": [
+       -0.0125,
+       -0.3599,
+       0.0709
+      ]
+     }
+    ],
+    "colliders": [
+     {
+      "a": "LeftUpLeg",
+      "b": "LeftLeg",
+      "r": 0.097,
+      "r2": 0.072,
+      "from": 0.25
+     },
+     {
+      "a": "LeftLeg",
+      "b": "LeftFoot",
+      "r": 0.076,
+      "r2": 0.071,
+      "from": 0
+     },
+     {
+      "a": "RightUpLeg",
+      "b": "RightLeg",
+      "r": 0.098,
+      "r2": 0.072,
+      "from": 0.25
+     },
+     {
+      "a": "RightLeg",
+      "b": "RightFoot",
+      "r": 0.072,
+      "r2": 0.069,
+      "from": 0
+     }
+    ]
+   }
+  }
+ },
+ "version": 1,
+ "anims": {
+  "file": "anims.bin",
+  "sourceHips": 0.9979,
+  "sourceArm": 0.5502,
+  "bones": [
+   "Hips",
+   "Spine",
+   "Spine1",
+   "Spine2",
+   "Neck",
+   "Head",
+   "LeftShoulder",
+   "LeftArm",
+   "LeftForeArm",
+   "LeftHand",
+   "LeftHandRing1",
+   "LeftHandRing2",
+   "LeftHandRing3",
+   "LeftHandMiddle1",
+   "LeftHandMiddle2",
+   "LeftHandMiddle3",
+   "LeftHandThumb1",
+   "LeftHandThumb2",
+   "LeftHandThumb3",
+   "LeftHandIndex1",
+   "LeftHandIndex2",
+   "LeftHandIndex3",
+   "LeftHandPinky1",
+   "LeftHandPinky2",
+   "LeftHandPinky3",
+   "RightShoulder",
+   "RightArm",
+   "RightForeArm",
+   "RightHand",
+   "RightHandThumb1",
+   "RightHandThumb2",
+   "RightHandThumb3",
+   "RightHandIndex1",
+   "RightHandIndex2",
+   "RightHandIndex3",
+   "RightHandMiddle1",
+   "RightHandMiddle2",
+   "RightHandMiddle3",
+   "RightHandRing1",
+   "RightHandRing2",
+   "RightHandRing3",
+   "RightHandPinky1",
+   "RightHandPinky2",
+   "RightHandPinky3",
+   "LeftUpLeg",
+   "LeftLeg",
+   "LeftFoot",
+   "LeftToeBase",
+   "RightUpLeg",
+   "RightLeg",
+   "RightFoot",
+   "RightToeBase"
+  ],
+  "clips": {
+   "rifle_idle": {
+    "loop": true,
+    "source": "Pro Rifle Pack: idle",
+    "headY": 1.522,
+    "ik": true,
+    "duration": 2.1,
+    "fps": 30,
+    "frames": 64,
+    "rot": [
+     0,
+     5454
+    ],
+    "vec": [
+     5456,
+     755,
+     3
+    ],
+    "ikRot": [
+     6212,
+     316
+    ]
+   },
+   "rifle_idle_aiming": {
+    "loop": true,
+    "source": "Pro Rifle Pack: idle aiming",
+    "headY": 1.494,
+    "ik": true,
+    "duration": 2.1,
+    "fps": 30,
+    "frames": 64,
+    "rot": [
+     6528,
+     4976
+    ],
+    "vec": [
+     11504,
+     756,
+     3
+    ],
+    "ikRot": [
+     12260,
+     312
+    ]
+   },
+   "rifle_crouch_idle": {
+    "loop": true,
+    "source": "Pro Rifle Pack: idle crouching",
+    "headY": 0.992,
+    "ik": true,
+    "duration": 2.1,
+    "fps": 30,
+    "frames": 64,
+    "rot": [
+     12572,
+     5351
+    ],
+    "vec": [
+     17924,
+     686,
+     3
+    ],
+    "ikRot": [
+     18612,
+     312
+    ]
+   },
+   "rifle_crouch_idle_aiming": {
+    "loop": true,
+    "source": "Pro Rifle Pack: idle crouching aiming",
+    "headY": 0.981,
+    "ik": true,
+    "duration": 2.1,
+    "fps": 30,
+    "frames": 64,
+    "rot": [
+     18924,
+     5307
+    ],
+    "vec": [
+     24232,
+     719,
+     3
+    ],
+    "ikRot": [
+     24952,
+     304
+    ]
+   },
+   "rifle_idle_relaxed": {
+    "loop": true,
+    "source": "Rifle Idle (Two Hand Lowered Gun Rifle Idle)",
+    "headY": 1.582,
+    "ik": true,
+    "duration": 7.6667,
+    "fps": 15,
+    "frames": 116,
+    "rot": [
+     25256,
+     8723
+    ],
+    "vec": [
+     33980,
+     1352,
+     3
+    ],
+    "ikRot": [
+     35332,
+     604
+    ]
+   },
+   "rifle_idle_lookaround": {
+    "loop": true,
+    "source": "Rifle Idle (Rifle Idle Looking Around)",
+    "headY": 1.517,
+    "ik": true,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     35936,
+     9185
+    ],
+    "vec": [
+     45124,
+     981,
+     3
+    ],
+    "ikRot": [
+     46108,
+     581
+    ]
+   },
+   "rifle_walk_f": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk forward",
+    "speed": 1.8559,
+    "dir": 0,
+    "phaseShift": 10,
+    "headY": 1.356,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     46692,
+     4228
+    ],
+    "vec": [
+     50920,
+     544,
+     3
+    ],
+    "ikRot": [
+     51464,
+     216
+    ]
+   },
+   "rifle_run_f": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run forward",
+    "speed": 4.6398,
+    "dir": 0,
+    "phaseShift": 10,
+    "headY": 1.42,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     51680,
+     2836
+    ],
+    "vec": [
+     54516,
+     327,
+     3
+    ],
+    "ikRot": [
+     54844,
+     150
+    ]
+   },
+   "rifle_crouchwalk_f": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching forward",
+    "speed": 1.9697,
+    "dir": 0,
+    "phaseShift": 10,
+    "headY": 1.132,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     54996,
+     4254
+    ],
+    "vec": [
+     59252,
+     476,
+     3
+    ],
+    "ikRot": [
+     59728,
+     201
+    ]
+   },
+   "rifle_walk_fl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk forward left",
+    "speed": 1.8559,
+    "dir": 0.7854,
+    "phaseShift": 10,
+    "headY": 1.379,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     59932,
+     4218
+    ],
+    "vec": [
+     64152,
+     524,
+     3
+    ],
+    "ikRot": [
+     64676,
+     216
+    ]
+   },
+   "rifle_run_fl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run forward left",
+    "speed": 4.6398,
+    "dir": 0.7854,
+    "phaseShift": 8,
+    "headY": 1.425,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     64892,
+     2803
+    ],
+    "vec": [
+     67696,
+     317,
+     3
+    ],
+    "ikRot": [
+     68016,
+     155
+    ]
+   },
+   "rifle_crouchwalk_fl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching forward left",
+    "speed": 1.9697,
+    "dir": 0.7854,
+    "phaseShift": 11,
+    "headY": 1.14,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     68172,
+     4230
+    ],
+    "vec": [
+     72404,
+     462,
+     3
+    ],
+    "ikRot": [
+     72868,
+     169
+    ]
+   },
+   "rifle_walk_fr": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk forward right",
+    "speed": 1.856,
+    "dir": -0.7854,
+    "phaseShift": 11,
+    "headY": 1.33,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     73040,
+     4069
+    ],
+    "vec": [
+     77112,
+     499,
+     3
+    ],
+    "ikRot": [
+     77612,
+     169
+    ]
+   },
+   "rifle_run_fr": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run forward right",
+    "speed": 4.6398,
+    "dir": -0.7854,
+    "phaseShift": 6,
+    "headY": 1.478,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     77784,
+     2779
+    ],
+    "vec": [
+     80564,
+     321,
+     3
+    ],
+    "ikRot": [
+     80888,
+     148
+    ]
+   },
+   "rifle_crouchwalk_fr": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching forward right",
+    "speed": 1.9698,
+    "dir": -0.7854,
+    "phaseShift": 10,
+    "headY": 1.128,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     81036,
+     4216
+    ],
+    "vec": [
+     85252,
+     479,
+     3
+    ],
+    "ikRot": [
+     85732,
+     171
+    ]
+   },
+   "rifle_walk_l": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk left",
+    "speed": 1.8559,
+    "dir": 1.5708,
+    "phaseShift": 24,
+    "headY": 1.313,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     85904,
+     4279
+    ],
+    "vec": [
+     90184,
+     514,
+     3
+    ],
+    "ikRot": [
+     90700,
+     207
+    ]
+   },
+   "rifle_run_l": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run left",
+    "speed": 4.6398,
+    "dir": 1.5708,
+    "phaseShift": 8,
+    "headY": 1.485,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     90908,
+     2789
+    ],
+    "vec": [
+     93700,
+     327,
+     3
+    ],
+    "ikRot": [
+     94028,
+     152
+    ]
+   },
+   "rifle_crouchwalk_l": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching left",
+    "speed": 1.9697,
+    "dir": 1.5708,
+    "phaseShift": 15,
+    "headY": 1.157,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     94180,
+     4205
+    ],
+    "vec": [
+     98388,
+     478,
+     3
+    ],
+    "ikRot": [
+     98868,
+     206
+    ]
+   },
+   "rifle_walk_r": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk right",
+    "speed": 1.8559,
+    "dir": -1.5708,
+    "phaseShift": 7,
+    "headY": 1.35,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     99076,
+     4246
+    ],
+    "vec": [
+     103324,
+     514,
+     3
+    ],
+    "ikRot": [
+     103840,
+     201
+    ]
+   },
+   "rifle_run_r": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run right",
+    "speed": 4.6399,
+    "dir": -1.5708,
+    "phaseShift": 6,
+    "headY": 1.408,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     104044,
+     2799
+    ],
+    "vec": [
+     106844,
+     330,
+     3
+    ],
+    "ikRot": [
+     107176,
+     151
+    ]
+   },
+   "rifle_crouchwalk_r": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching right",
+    "speed": 1.9697,
+    "dir": -1.5708,
+    "phaseShift": 19,
+    "headY": 1.165,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     107328,
+     4279
+    ],
+    "vec": [
+     111608,
+     491,
+     3
+    ],
+    "ikRot": [
+     112100,
+     193
+    ]
+   },
+   "rifle_walk_b": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk backward",
+    "speed": 1.8559,
+    "dir": -3.1416,
+    "phaseShift": 7,
+    "headY": 1.379,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     112296,
+     4196
+    ],
+    "vec": [
+     116492,
+     498,
+     3
+    ],
+    "ikRot": [
+     116992,
+     221
+    ]
+   },
+   "rifle_run_b": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run backward",
+    "speed": 4.6398,
+    "dir": -3.1416,
+    "phaseShift": 10,
+    "headY": 1.506,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     117216,
+     2802
+    ],
+    "vec": [
+     120020,
+     332,
+     3
+    ],
+    "ikRot": [
+     120352,
+     148
+    ]
+   },
+   "rifle_crouchwalk_b": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching backward",
+    "speed": 1.9697,
+    "dir": 3.1416,
+    "phaseShift": 12,
+    "headY": 1.197,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     120500,
+     4236
+    ],
+    "vec": [
+     124736,
+     482,
+     3
+    ],
+    "ikRot": [
+     125220,
+     203
+    ]
+   },
+   "rifle_walk_bl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk backward left",
+    "speed": 1.8559,
+    "dir": 2.3562,
+    "phaseShift": 21,
+    "headY": 1.386,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     125424,
+     4249
+    ],
+    "vec": [
+     129676,
+     503,
+     3
+    ],
+    "ikRot": [
+     130180,
+     177
+    ]
+   },
+   "rifle_run_bl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run backward left",
+    "speed": 4.6398,
+    "dir": 2.3562,
+    "phaseShift": 10,
+    "headY": 1.508,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     130360,
+     2844
+    ],
+    "vec": [
+     133204,
+     351,
+     3
+    ],
+    "ikRot": [
+     133556,
+     149
+    ]
+   },
+   "rifle_crouchwalk_bl": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching backward left",
+    "speed": 1.9697,
+    "dir": 2.3562,
+    "phaseShift": 19,
+    "headY": 1.153,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     133708,
+     4212
+    ],
+    "vec": [
+     137920,
+     483,
+     3
+    ],
+    "ikRot": [
+     138404,
+     178
+    ]
+   },
+   "rifle_walk_br": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk backward right",
+    "speed": 1.8559,
+    "dir": -2.3562,
+    "phaseShift": 10,
+    "headY": 1.415,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     138584,
+     4226
+    ],
+    "vec": [
+     142812,
+     509,
+     3
+    ],
+    "ikRot": [
+     143324,
+     218
+    ]
+   },
+   "rifle_run_br": {
+    "loop": true,
+    "source": "Pro Rifle Pack: run backward right",
+    "speed": 4.6398,
+    "dir": -2.3562,
+    "phaseShift": 7,
+    "headY": 1.467,
+    "ik": true,
+    "duration": 0.5,
+    "fps": 30,
+    "frames": 16,
+    "rot": [
+     143544,
+     2746
+    ],
+    "vec": [
+     146292,
+     320,
+     3
+    ],
+    "ikRot": [
+     146612,
+     146
+    ]
+   },
+   "rifle_crouchwalk_br": {
+    "loop": true,
+    "source": "Pro Rifle Pack: walk crouching backward right",
+    "speed": 1.9697,
+    "dir": -2.3562,
+    "phaseShift": 12,
+    "headY": 1.168,
+    "ik": true,
+    "duration": 1,
+    "fps": 30,
+    "frames": 31,
+    "rot": [
+     146760,
+     4235
+    ],
+    "vec": [
+     150996,
+     479,
+     3
+    ],
+    "ikRot": [
+     151476,
+     169
+    ]
+   },
+   "rifle_walk_relaxed": {
+    "loop": true,
+    "source": "Rifle Walk (Walking With Rifle Down)",
+    "speed": 1.1468,
+    "dir": 0,
+    "phaseShift": 18,
+    "headY": 1.562,
+    "ik": true,
+    "duration": 1.3,
+    "fps": 30,
+    "frames": 40,
+    "rot": [
+     151648,
+     4549
+    ],
+    "vec": [
+     156200,
+     643,
+     3
+    ],
+    "ikRot": [
+     156844,
+     233
+    ]
+   },
+   "rifle_run_relaxed": {
+    "loop": true,
+    "source": "Rifle Run (Running With Rifle Down)",
+    "speed": 4.1585,
+    "dir": 0,
+    "phaseShift": 7,
+    "headY": 1.387,
+    "ik": true,
+    "duration": 0.6667,
+    "fps": 30,
+    "frames": 21,
+    "rot": [
+     157080,
+     3284
+    ],
+    "vec": [
+     160364,
+     378,
+     3
+    ],
+    "ikRot": [
+     160744,
+     163
+    ]
+   },
+   "rifle_fire_stand": {
+    "loop": false,
+    "source": "Firing Rifle (Firing A Rifle While Standing)",
+    "headY": 1.507,
+    "ik": true,
+    "duration": 0.2667,
+    "fps": 30,
+    "frames": 9,
+    "rot": [
+     160908,
+     1741
+    ],
+    "vec": [
+     162652,
+     217,
+     3
+    ],
+    "ikRot": [
+     162872,
+     120
+    ]
+   },
+   "rifle_reload_stand": {
+    "loop": false,
+    "source": "Reloading (Reloading Rifle While Standing)",
+    "headY": 1.508,
+    "ik": true,
+    "duration": 3.3,
+    "fps": 30,
+    "frames": 100,
+    "rot": [
+     162992,
+     17550
+    ],
+    "vec": [
+     180544,
+     1766,
+     3
+    ],
+    "ikRot": [
+     182312,
+     1015
+    ]
+   },
+   "rifle_reload_crouch": {
+    "loop": false,
+    "source": "Reload (Reload Rifle While In Crouch Position)",
+    "headY": 0.901,
+    "ik": true,
+    "duration": 6.8667,
+    "fps": 30,
+    "frames": 207,
+    "rot": [
+     183328,
+     35513
+    ],
+    "vec": [
+     218844,
+     3334,
+     3
+    ],
+    "ikRot": [
+     222180,
+     2000
+    ]
+   },
+   "grenade_toss_stand": {
+    "loop": false,
+    "source": "Toss Grenade (Throwing Something Holding Rifle Aimed)",
+    "release": 1.8,
+    "headY": 1.508,
+    "ik": true,
+    "duration": 3.2,
+    "fps": 30,
+    "frames": 97,
+    "rot": [
+     224180,
+     16432
+    ],
+    "vec": [
+     240612,
+     1903,
+     3
+    ],
+    "ikRot": [
+     242516,
+     1122
+    ]
+   },
+   "grenade_throw_crouch": {
+    "loop": false,
+    "source": "Throw Grenade (Throwing Grenade While Crouched)",
+    "release": 1.867,
+    "headY": 0.903,
+    "ik": true,
+    "duration": 3.5,
+    "fps": 30,
+    "frames": 106,
+    "rot": [
+     243640,
+     19757
+    ],
+    "vec": [
+     263400,
+     2072,
+     3
+    ],
+    "ikRot": [
+     265472,
+     1135
+    ]
+   },
+   "hit_rifle_stand": {
+    "loop": false,
+    "source": "Hit Reaction (Hit Reaction While Holding A Rifle)",
+    "headY": 1.495,
+    "ik": true,
+    "duration": 2.3,
+    "fps": 30,
+    "frames": 70,
+    "rot": [
+     266608,
+     7043
+    ],
+    "vec": [
+     273652,
+     1303,
+     3
+    ],
+    "ikRot": [
+     274956,
+     730
+    ]
+   },
+   "hit_rifle_front_left": {
+    "loop": false,
+    "source": "Hit Reaction (Left Reaction To Front Hit Holding A Rifle)",
+    "headY": 1.507,
+    "ik": true,
+    "duration": 2.4333,
+    "fps": 30,
+    "frames": 74,
+    "rot": [
+     275688,
+     7450
+    ],
+    "vec": [
+     283140,
+     1304,
+     3
+    ],
+    "ikRot": [
+     284444,
+     773
+    ]
+   },
+   "hit_rifle_crouch": {
+    "loop": false,
+    "source": "Hit Reaction (Hit Reaction From Rifle Crouched)",
+    "headY": 0.901,
+    "ik": true,
+    "duration": 1.8333,
+    "fps": 30,
+    "frames": 56,
+    "rot": [
+     285220,
+     4686
+    ],
+    "vec": [
+     289908,
+     428,
+     3
+    ],
+    "ikRot": [
+     290336,
+     84
+    ]
+   },
+   "cover_wall_idle": {
+    "loop": true,
+    "source": "Taking Cover Idle (Cover Idle Against A Wall With Rifle)",
+    "headY": 1.481,
+    "ik": true,
+    "duration": 2.2667,
+    "fps": 30,
+    "frames": 69,
+    "rot": [
+     290420,
+     5273
+    ],
+    "vec": [
+     295696,
+     714,
+     3
+    ],
+    "ikRot": [
+     296412,
+     275
+    ]
+   },
+   "death_front": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from the front",
+    "rootEnd": [
+     0.261,
+     1.02
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 3.4333,
+    "fps": 30,
+    "frames": 104,
+    "rot": [
+     296688,
+     15835
+    ],
+    "vec": [
+     312524,
+     1989,
+     3
+    ],
+    "ikRot": [
+     314516,
+     1017
+    ]
+   },
+   "death_back": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from the back",
+    "rootEnd": [
+     0.253,
+     1.099
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 2.9667,
+    "fps": 30,
+    "frames": 90,
+    "rot": [
+     315536,
+     14310
+    ],
+    "vec": [
+     329848,
+     1691,
+     3
+    ],
+    "ikRot": [
+     331540,
+     922
+    ]
+   },
+   "death_left": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from right (mirrored)",
+    "rootEnd": [
+     -0.846,
+     -0.106
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 3.3,
+    "fps": 30,
+    "frames": 100,
+    "rot": [
+     332464,
+     15862
+    ],
+    "vec": [
+     348328,
+     1827,
+     3
+    ],
+    "ikRot": [
+     350156,
+     1041
+    ]
+   },
+   "death_right": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from right",
+    "rootEnd": [
+     0.846,
+     -0.106
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 3.3,
+    "fps": 30,
+    "frames": 100,
+    "rot": [
+     351200,
+     15888
+    ],
+    "vec": [
+     367088,
+     1801,
+     3
+    ],
+    "ikRot": [
+     368892,
+     1001
+    ]
+   },
+   "death_headshot_front": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from front headshot",
+    "rootEnd": [
+     -0.288,
+     -0.248
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 2.8333,
+    "fps": 30,
+    "frames": 86,
+    "rot": [
+     369896,
+     14310
+    ],
+    "vec": [
+     384208,
+     1702,
+     3
+    ],
+    "ikRot": [
+     385912,
+     938
+    ]
+   },
+   "death_headshot_back": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death from back headshot",
+    "rootEnd": [
+     -0.059,
+     0.952
+    ],
+    "headY": 1.522,
+    "ik": true,
+    "duration": 3.7,
+    "fps": 30,
+    "frames": 112,
+    "rot": [
+     386852,
+     17176
+    ],
+    "vec": [
+     404028,
+     2065,
+     3
+    ],
+    "ikRot": [
+     406096,
+     1187
+    ]
+   },
+   "death_crouch_headshot": {
+    "loop": false,
+    "source": "Pro Rifle Pack: death crouching headshot front",
+    "rootEnd": [
+     -0.134,
+     0.929
+    ],
+    "headY": 0.992,
+    "ik": true,
+    "duration": 1.9,
+    "fps": 30,
+    "frames": 58,
+    "rot": [
+     407284,
+     9955
+    ],
+    "vec": [
+     417240,
+     1225,
+     3
+    ],
+    "ikRot": [
+     418468,
+     671
+    ]
+   },
+   "idle_standing": {
+    "loop": true,
+    "source": "Idle (Standing Idle)",
+    "headY": 1.586,
+    "ik": false,
+    "duration": 8.3333,
+    "fps": 15,
+    "frames": 126,
+    "rot": [
+     419140,
+     8771
+    ],
+    "vec": [
+     427912,
+     510,
+     1
+    ]
+   },
+   "idle_breathing": {
+    "loop": true,
+    "source": "Breathing Idle",
+    "headY": 1.568,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     428424,
+     20799
+    ],
+    "vec": [
+     449224,
+     597,
+     1
+    ]
+   },
+   "idle_weightshift": {
+    "loop": true,
+    "source": "Idle (Weight Shift Idle)",
+    "headY": 1.561,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     449824,
+     18418
+    ],
+    "vec": [
+     468244,
+     554,
+     1
+    ]
+   },
+   "idle_lookaround": {
+    "loop": true,
+    "source": "Looking Around (Idle Stand Looking Around)",
+    "headY": 1.545,
+    "ik": false,
+    "duration": 6.3333,
+    "fps": 15,
+    "frames": 96,
+    "rot": [
+     468800,
+     18503
+    ],
+    "vec": [
+     487304,
+     507,
+     1
+    ]
+   },
+   "idle_nervous": {
+    "loop": true,
+    "source": "Nervously Look Around (Nervously Looking Around Left To Right - Loop)",
+    "headY": 1.554,
+    "ik": false,
+    "duration": 6.2667,
+    "fps": 15,
+    "frames": 95,
+    "rot": [
+     487812,
+     14612
+    ],
+    "vec": [
+     502424,
+     481,
+     1
+    ]
+   },
+   "talk_general": {
+    "loop": true,
+    "source": "Talking (General Conversation)",
+    "headY": 1.564,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     502908,
+     22535
+    ],
+    "vec": [
+     525444,
+     569,
+     1
+    ]
+   },
+   "talk_question_left": {
+    "loop": true,
+    "source": "Talking (Asking A Question With One Hand), mirrored",
+    "headY": 1.58,
+    "ik": false,
+    "duration": 3.7333,
+    "fps": 15,
+    "frames": 57,
+    "rot": [
+     526016,
+     8855
+    ],
+    "vec": [
+     534872,
+     310,
+     1
+    ]
+   },
+   "talk_phone_female": {
+    "loop": true,
+    "source": "Talking On Phone (Female Standing Talking On Phone)",
+    "headY": 1.573,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     535184,
+     18340
+    ],
+    "vec": [
+     553524,
+     587,
+     1
+    ]
+   },
+   "talk_phone_male": {
+    "loop": true,
+    "source": "Talking On A Cell Phone (Male Standing While Talking On A Cell Phone)",
+    "headY": 1.56,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     554112,
+     15992
+    ],
+    "vec": [
+     570104,
+     605,
+     1
+    ]
+   },
+   "texting": {
+    "loop": true,
+    "source": "Texting (Standing Texting On Phone)",
+    "headY": 1.553,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     570712,
+     18243
+    ],
+    "vec": [
+     588956,
+     527,
+     1
+    ]
+   },
+   "praying_swaying": {
+    "loop": true,
+    "source": "Praying (Standing Praying While Swaying)",
+    "headY": 1.576,
+    "ik": false,
+    "duration": 3.2333,
+    "fps": 30,
+    "frames": 98,
+    "rot": [
+     589484,
+     5697
+    ],
+    "vec": [
+     595184,
+     461,
+     1
+    ]
+   },
+   "terrified": {
+    "loop": true,
+    "source": "Terrified (Being Terrified While Standing)",
+    "headY": 1.158,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     595648,
+     15814
+    ],
+    "vec": [
+     611464,
+     620,
+     1
+    ]
+   },
+   "walk_male": {
+    "loop": true,
+    "source": "Walking (Male Standard Walk)",
+    "speed": 1.0433,
+    "dir": 0,
+    "phaseShift": 20,
+    "headY": 1.588,
+    "ik": false,
+    "duration": 1.2333,
+    "fps": 30,
+    "frames": 38,
+    "rot": [
+     612084,
+     7093
+    ],
+    "vec": [
+     619180,
+     261,
+     1
+    ]
+   },
+   "walk_female": {
+    "loop": true,
+    "source": "Female Walk (Female Normal Walk)",
+    "speed": 1.2211,
+    "dir": 0,
+    "phaseShift": 9,
+    "headY": 1.536,
+    "ik": false,
+    "duration": 1.1667,
+    "fps": 30,
+    "frames": 36,
+    "rot": [
+     619444,
+     4279
+    ],
+    "vec": [
+     623724,
+     243,
+     1
+    ]
+   },
+   "run_scared_lookback": {
+    "loop": true,
+    "source": "Run Look Back (Running Looking Back)",
+    "speed": 1.7976,
+    "dir": 0,
+    "phaseShift": 7,
+    "headY": 1.468,
+    "ik": false,
+    "duration": 2.2333,
+    "fps": 30,
+    "frames": 68,
+    "rot": [
+     623968,
+     14043
+    ],
+    "vec": [
+     638012,
+     445,
+     1
+    ]
+   },
+   "run_standard": {
+    "loop": true,
+    "source": "Standard Run (Standard Running)",
+    "speed": 4.2354,
+    "dir": 0,
+    "phaseShift": 8,
+    "headY": 1.377,
+    "ik": false,
+    "duration": 0.7333,
+    "fps": 30,
+    "frames": 23,
+    "rot": [
+     638460,
+     5174
+    ],
+    "vec": [
+     643636,
+     190,
+     1
+    ]
+   },
+   "cower_hiding": {
+    "loop": false,
+    "source": "Hiding (Crouched Hiding To Ducking)",
+    "headY": 1.096,
+    "ik": false,
+    "duration": 1.5333,
+    "fps": 30,
+    "frames": 47,
+    "rot": [
+     643828,
+     8361
+    ],
+    "vec": [
+     652192,
+     302,
+     1
+    ]
+   },
+   "sit_chair": {
+    "loop": true,
+    "source": "Sitting Idle (Sitting In Chair Hands Resting On Thighs)",
+    "headY": 1.194,
+    "ik": false,
+    "duration": 6.4,
+    "fps": 15,
+    "frames": 97,
+    "rot": [
+     652496,
+     9048
+    ],
+    "vec": [
+     661544,
+     368,
+     1
+    ]
+   },
+   "sit_reading": {
+    "loop": true,
+    "source": "Seated Idle (Seated Idle With Hands On A Table)",
+    "headY": 1.204,
+    "ik": false,
+    "duration": 4.1333,
+    "fps": 15,
+    "frames": 63,
+    "rot": [
+     661912,
+     5857
+    ],
+    "vec": [
+     667772,
+     226,
+     1
+    ]
+   },
+   "old_idle": {
+    "loop": true,
+    "source": "Old Man Idle (Old Man Standing Idle)",
+    "headY": 1.445,
+    "ik": false,
+    "duration": 8,
+    "fps": 15,
+    "frames": 121,
+    "rot": [
+     668000,
+     10361
+    ],
+    "vec": [
+     678364,
+     524,
+     1
+    ]
+   },
+   "old_walk": {
+    "loop": true,
+    "source": "Old Man Walk (Slow Old Man Shuffle Walk)",
+    "speed": 0.3879,
+    "dir": 0,
+    "phaseShift": 13,
+    "headY": 1.415,
+    "ik": false,
+    "duration": 1.2667,
+    "fps": 30,
+    "frames": 39,
+    "rot": [
+     678888,
+     4157
+    ],
+    "vec": [
+     683048,
+     251,
+     1
+    ]
+   },
+   "walk_back_male": {
+    "loop": true,
+    "source": "Walking Backwards",
+    "speed": 1.0863,
+    "dir": 3.1416,
+    "phaseShift": 26,
+    "headY": 1.494,
+    "ik": false,
+    "duration": 1.2,
+    "fps": 30,
+    "frames": 37,
+    "rot": [
+     683300,
+     7768
+    ],
+    "vec": [
+     691068,
+     256,
+     1
+    ]
+   },
+   "walk_back_female": {
+    "loop": true,
+    "source": "Walking Backwards (Female Walk Backwards)",
+    "speed": 1.3363,
+    "dir": 3.1416,
+    "phaseShift": 11,
+    "headY": 1.543,
+    "ik": false,
+    "duration": 0.9667,
+    "fps": 30,
+    "frames": 30,
+    "rot": [
+     691324,
+     3942
+    ],
+    "vec": [
+     695268,
+     205,
+     1
+    ]
+   },
+   "wall_reach": {
+    "loop": false,
+    "source": "Unarmed Grab Torch From Wall (Picking Up Torch From Wall)",
+    "headY": 1.577,
+    "ik": false,
+    "duration": 4.6,
+    "fps": 30,
+    "frames": 139,
+    "rot": [
+     695476,
+     25670
+    ],
+    "vec": [
+     721148,
+     718,
+     1
+    ]
+   },
+   "wall_touch": {
+    "loop": true,
+    "source": "Petting (Petting A Large Animal)",
+    "headY": 1.596,
+    "ik": false,
+    "duration": 5.6,
+    "fps": 30,
+    "frames": 169,
+    "rot": [
+     721868,
+     17335
+    ],
+    "vec": [
+     739204,
+     725,
+     1
+    ]
+   },
+   "bow_quick": {
+    "loop": false,
+    "source": "Quick Informal Bow",
+    "headY": 1.586,
+    "ik": false,
+    "duration": 2.7333,
+    "fps": 30,
+    "frames": 83,
+    "rot": [
+     739932,
+     13017
+    ],
+    "vec": [
+     752952,
+     386,
+     1
+    ]
+   },
+   "reach_out": {
+    "loop": false,
+    "source": "Reaching Out (Reaching Out Gesture)",
+    "headY": 1.586,
+    "ik": false,
+    "duration": 4,
+    "fps": 30,
+    "frames": 121,
+    "rot": [
+     753340,
+     17946
+    ],
+    "vec": [
+     771288,
+     471,
+     1
+    ]
+   },
+   "salute": {
+    "loop": false,
+    "source": "Salute (Formal Military Salute)",
+    "headY": 1.595,
+    "ik": false,
+    "duration": 2.8333,
+    "fps": 30,
+    "frames": 86,
+    "rot": [
+     771760,
+     12926
+    ],
+    "vec": [
+     784688,
+     366,
+     1
+    ]
+   },
+   "wave": {
+    "loop": true,
+    "source": "Waving",
+    "headY": 1.592,
+    "ik": false,
+    "duration": 0.5333,
+    "fps": 30,
+    "frames": 17,
+    "rot": [
+     785056,
+     2408
+    ],
+    "vec": [
+     787464,
+     149,
+     1
+    ]
+   },
+   "thumbs_up": {
+    "loop": false,
+    "source": "Standing Thumbs Up (Giving Thumbs Up While Standing)",
+    "headY": 1.584,
+    "ik": false,
+    "duration": 4.1667,
+    "fps": 30,
+    "frames": 126,
+    "rot": [
+     787616,
+     23144
+    ],
+    "vec": [
+     810760,
+     671,
+     1
+    ]
+   },
+   "clap": {
+    "loop": true,
+    "source": "Clapping (Clap While Standing)",
+    "headY": 1.576,
+    "ik": false,
+    "duration": 1.1667,
+    "fps": 30,
+    "frames": 36,
+    "rot": [
+     811432,
+     3581
+    ],
+    "vec": [
+     815016,
+     191,
+     1
+    ]
+   },
+   "happy_idle": {
+    "loop": true,
+    "source": "Happy Idle (Happy Idle Variation 1)",
+    "headY": 1.599,
+    "ik": false,
+    "duration": 2,
+    "fps": 15,
+    "frames": 31,
+    "rot": [
+     815208,
+     5624
+    ],
+    "vec": [
+     820832,
+     190,
+     1
+    ]
+   },
+   "stairs_walk_up": {
+    "loop": true,
+    "source": "Ascending Stairs (Walking Up A Set Of Stairs)",
+    "contacts": {
+     "l": [
+      0.195,
+      0.732
+     ],
+     "r": [
+      0.707,
+      1
+     ]
+    },
+    "speed": 0.367,
+    "dir": 0,
+    "rise": 0.3434,
+    "headY": 1.567,
+    "ik": false,
+    "duration": 1.3667,
+    "fps": 30,
+    "frames": 42,
+    "rot": [
+     821024,
+     7980
+    ],
+    "vec": [
+     829004,
+     252,
+     1
+    ]
+   },
+   "stairs_walk_down": {
+    "loop": true,
+    "source": "Descending Stairs (Walking Down A Set Of Stairs)",
+    "contacts": {
+     "l": [
+      0.321,
+      0.857
+     ],
+     "r": [
+      0.036,
+      0.321
+     ]
+    },
+    "speed": 0.4776,
+    "dir": 0.0002,
+    "rise": -0.5274,
+    "headY": 1.537,
+    "ik": false,
+    "duration": 0.9333,
+    "fps": 30,
+    "frames": 29,
+    "rot": [
+     829256,
+     5813
+    ],
+    "vec": [
+     835072,
+     209,
+     1
+    ]
+   },
+   "stairs_run_up": {
+    "loop": true,
+    "source": "Running Up Stairs",
+    "contacts": {
+     "l": [
+      0.389,
+      0.611
+     ],
+     "r": [
+      0.833,
+      1
+     ]
+    },
+    "speed": 0.841,
+    "dir": 0,
+    "rise": 0.7659,
+    "headY": 1.472,
+    "ik": false,
+    "duration": 0.6,
+    "fps": 30,
+    "frames": 19,
+    "rot": [
+     835284,
+     3995
+    ],
+    "vec": [
+     839280,
+     189,
+     1
+    ]
+   },
+   "stairs_run_down": {
+    "loop": true,
+    "source": "Descending Stairs (Running Down A Set Of Stairs)",
+    "contacts": {
+     "l": [
+      0.5,
+      0.75
+     ],
+     "r": [
+      0.083,
+      0.167
+     ]
+    },
+    "speed": 1.1526,
+    "dir": -0.0001,
+    "rise": -1.1754,
+    "headY": 1.433,
+    "ik": false,
+    "duration": 0.4,
+    "fps": 30,
+    "frames": 13,
+    "rot": [
+     839472,
+     3104
+    ],
+    "vec": [
+     842576,
+     125,
+     1
+    ]
+   }
+  },
+  "rifle": {
+   "position": [
+    0,
+    0.0703,
+    0
+   ],
+   "quaternion": [
+    -0.39199,
+    -0.63077,
+    -0.43431,
+    0.50975
+   ],
+   "handguard": 0.264
+  }
+ }
+}
